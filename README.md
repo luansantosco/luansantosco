@@ -1,7 +1,7 @@
 
 # Hey, I'm Luan 👋
 
-I am a iOS Developer with 5+ years of experience in iOS app development. I have created new features and contributed to enhancing the stability and quality of large-scale projects. In my leisure time, I enjoy draw and playing video games.
+I am a iOS Developer with 3+ years of experience in iOS app development. I have created new features and contributed to enhancing the stability and quality of large-scale projects. In my leisure time, I enjoy draw and playing video games.
 
 
 ### Hard skills I got and main technologies used in my works
