@@ -35,7 +35,3 @@ and also...
 ## **Most Used Languages ​​in my Repositories**
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luansantosco&layout=compact&bg_color=000&border_color=ee19c3&title_color=44f3f6&text_color=FFF)
-
-## **GitHub Statistics**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luansantosco&theme=transparent&bg_color=000&border_color=ee19c3&show_icons=true&icon_color=ee19c3&title_color=44f3f6&text_color=FFF)
